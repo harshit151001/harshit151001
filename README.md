@@ -19,6 +19,10 @@
 
 <br>
 
+![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=Harshit151001&show_icons=true)
+
+<br>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
