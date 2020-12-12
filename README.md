@@ -19,7 +19,7 @@
 
 <br>
 
-![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=Harshit151001&show_icons=true)
+![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=Harshit151001&show_icons=true&theme=radical)
 
 <br>
 
