@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data structures & algorithms.
-- 🤔 &nbsp; Exploring new technologies and engineering solutions that scale.
+- 🖥 &nbsp; Software Developer @tortoise.pro
 - 🎓 &nbsp; Studying Physics, at BITS, Pilani.
-- 💼 &nbsp; Software developer & Designer.
+- 💼 &nbsp; Software developer at work.
 - ☕ &nbsp;  Giving up is not an option, oppurnuties are. 
 
 <h3>🛠 Tech Stack</h3>
@@ -15,7 +14,7 @@
 - 🌐 &nbsp; React | React-Native | Redux | Node | Go | HTML | CSS
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Android Studio | Xcode | Visual Studio code | Git | Github | AWS
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | After Effects | Premiere Pro
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
 
 <br>
 
