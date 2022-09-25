@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🖥 &nbsp; Software Developer @tortoise.pro
+- 🖥 &nbsp; Software Developer
 - 🎓 &nbsp; Studying Physics, at BITS, Pilani.
 - 💼 &nbsp; Software developer at work.
 - ☕ &nbsp;  Giving up is not an option, oppurnuties are. 
