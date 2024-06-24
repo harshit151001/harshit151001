@@ -4,13 +4,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🖥 &nbsp; Software Developer
-- 🎓 &nbsp; Studying Physics, at BITS, Pilani.
+- 🎓 &nbsp; Studying Physics & Manufacturing, at BITS, Pilani.
 - 💼 &nbsp; Software developer at work.
 - ☕ &nbsp;  Giving up is not an option, oppurnuties are. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Go | C/C++  
+- 💻 &nbsp; Javascript | Go | C/C++ | Python | LLM's
 - 🌐 &nbsp; React | React-Native | Redux | Node | Go | HTML | CSS
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Android Studio | Xcode | Visual Studio code | Git | Github | AWS
