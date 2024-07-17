@@ -3,6 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+<h4>I've been developing software solutions since last 5 years, and I've spent my last year developing AI tools enhancing productivity of engineering teams.</h4>
+
 - 🖥 &nbsp; Software Developer
 - 🎓 &nbsp; Studying Physics & Manufacturing, at BITS, Pilani.
 - 💼 &nbsp; Software developer at work.
