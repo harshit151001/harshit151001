@@ -6,15 +6,15 @@
 - 🖥 &nbsp; Software Developer
 - 🎓 &nbsp; Studying Physics & Manufacturing, at BITS, Pilani.
 - 💼 &nbsp; Software developer at work.
-- ☕ &nbsp;  Giving up is not an option, oppurnuties are. 
+- ☕ &nbsp;  Loves using AI for automating wrokflows 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Go | C/C++ | Python | LLM's
-- 🌐 &nbsp; React | React-Native | Redux | Node | Go | HTML | CSS
-- 🛢 &nbsp; MongoDB
+- 🌐 &nbsp; React | React-Native | Redux | Node | Django | Go | HTML | CSS
+- 🛢 &nbsp; MongoDB | Postgres SQL
 - 🔧 &nbsp; Android Studio | Xcode | Visual Studio code | Git | Github | AWS
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
+- 🖥 &nbsp; Figma | AdobeXD 
 
 <br>
 
