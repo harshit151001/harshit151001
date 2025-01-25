@@ -7,10 +7,10 @@
 
 </br>
 
-- 🖥 &nbsp; Software Developer
-- 🎓 &nbsp; Studying Physics & Manufacturing, at BITS, Pilani.
+- 🖥 &nbsp; Product Engineer
+- 🎓 &nbsp; Physics & Manufacturing, at BITS, Pilani.
 - 💼 &nbsp; Software developer at work.
-- ☕ &nbsp;  Loves using AI for automating wrokflows 
+- ☕ &nbsp;  Loves using AI for automating workflows
 
 <h3>🛠 Tech Stack</h3>
 
