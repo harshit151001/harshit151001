@@ -8,7 +8,7 @@
 </br>
 
 - 🖥 &nbsp; Product Engineer
-- 🎓 &nbsp; Physics & Manufacturing, at BITS, Pilani.
+- 🎓 &nbsp; Graduated from BITS, Pilani.
 - 💼 &nbsp; Software developer at work.
 - ☕ &nbsp;  Loves using AI for automating workflows
 
